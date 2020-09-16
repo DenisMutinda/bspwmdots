@@ -1,0 +1,40 @@
+{
+   "checksum": "8e010fc29b28aacfe4245ae3a1f7b00c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13244610973010273",
+            "guid": "2c28008e-946b-42b4-9fd0-cdda1b1fa697",
+            "id": "5",
+            "name": "My NeoVim config + Dracula theme + NerdTree · GitHub",
+            "type": "url",
+            "url": "https://gist.github.com/prkstaff/a8d9ab54318e462f0321444bba472504"
+         } ],
+         "date_added": "13244605101139685",
+         "date_modified": "13244610973010273",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13244605101139700",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13244605101139708",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
