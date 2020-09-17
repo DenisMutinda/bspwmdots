@@ -1,0 +1,5 @@
+2020/09/16-19:36:24.711 e444 Reusing MANIFEST /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/16-20:23:36.411 1091a Level-0 table #5: started
+2020/09/16-20:23:36.452 1091a Level-0 table #5: 370265 bytes OK
+2020/09/16-20:23:36.456 1091a Delete type=0 #3
+2020/09/16-20:23:36.456 1091a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

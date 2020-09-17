@@ -1,45 +1,6 @@
-2020/09/16-02:23:10.345 28c7 Reusing MANIFEST /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2020/09/16-02:23:10.346 28c7 Recovering log #70
-2020/09/16-02:23:10.348 28c7 Reusing old log /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000070.log 
-2020/09/16-02:33:15.151 3082 Level-0 table #74: started
-2020/09/16-02:33:15.159 3082 Level-0 table #74: 14831 bytes OK
-2020/09/16-02:33:15.164 3082 Delete type=0 #70
-2020/09/16-05:17:05.980 3082 Level-0 table #76: started
-2020/09/16-05:17:05.988 3082 Level-0 table #76: 12864 bytes OK
-2020/09/16-05:17:05.993 3082 Delete type=0 #73
-2020/09/16-08:19:27.592 3082 Level-0 table #78: started
-2020/09/16-08:19:27.602 3082 Level-0 table #78: 14972 bytes OK
-2020/09/16-08:19:27.605 3082 Delete type=0 #75
-2020/09/16-08:19:27.606 3082 Compacting 4@0 + 1@1 files
-2020/09/16-08:19:27.654 3082 Generated table #79@0: 376 keys, 558618 bytes
-2020/09/16-08:19:27.654 3082 Compacted 4@0 + 1@1 files => 558618 bytes
-2020/09/16-08:19:27.657 3082 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/09/16-08:19:27.657 3082 Delete type=2 #74
-2020/09/16-08:19:27.657 3082 Delete type=2 #69
-2020/09/16-08:19:27.657 3082 Delete type=2 #76
-2020/09/16-08:19:27.657 3082 Delete type=2 #71
-2020/09/16-08:19:27.657 3082 Delete type=2 #78
-2020/09/16-08:38:59.845 3082 Level-0 table #81: started
-2020/09/16-08:38:59.849 3082 Level-0 table #81: 14960 bytes OK
-2020/09/16-08:38:59.853 3082 Delete type=0 #77
-2020/09/16-08:45:07.501 3082 Level-0 table #83: started
-2020/09/16-08:45:07.506 3082 Level-0 table #83: 20170 bytes OK
-2020/09/16-08:45:07.510 3082 Delete type=0 #80
-2020/09/16-08:45:25.559 3082 Level-0 table #85: started
-2020/09/16-08:45:25.565 3082 Level-0 table #85: 15652 bytes OK
-2020/09/16-08:45:25.569 3082 Delete type=0 #82
-2020/09/16-08:45:47.293 3082 Level-0 table #87: started
-2020/09/16-08:45:47.299 3082 Level-0 table #87: 15602 bytes OK
-2020/09/16-08:45:47.305 3082 Delete type=0 #84
-2020/09/16-08:45:47.305 3082 Compacting 4@0 + 1@1 files
-2020/09/16-08:45:47.337 3082 Generated table #88@0: 381 keys, 562055 bytes
-2020/09/16-08:45:47.337 3082 Compacted 4@0 + 1@1 files => 562055 bytes
-2020/09/16-08:45:47.341 3082 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/09/16-08:45:47.342 3082 Delete type=2 #81
-2020/09/16-08:45:47.342 3082 Delete type=2 #85
-2020/09/16-08:45:47.342 3082 Delete type=2 #83
-2020/09/16-08:45:47.342 3082 Delete type=2 #87
-2020/09/16-08:45:47.342 3082 Delete type=2 #79
-2020/09/16-09:02:15.150 3082 Level-0 table #90: started
-2020/09/16-09:02:15.157 3082 Level-0 table #90: 14608 bytes OK
-2020/09/16-09:02:15.161 3082 Delete type=0 #86
+2020/09/17-03:00:19.629 346 Reusing MANIFEST /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/09/17-03:00:19.633 346 Recovering log #100
+2020/09/17-03:00:19.637 346 Reusing old log /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000100.log 
+2020/09/17-03:11:21.780 ee7 Level-0 table #104: started
+2020/09/17-03:11:21.788 ee7 Level-0 table #104: 15875 bytes OK
+2020/09/17-03:11:21.794 ee7 Delete type=0 #100

@@ -1,24 +1,6 @@
-2020/09/15-15:45:37.625 11e3f Reusing MANIFEST /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2020/09/15-15:45:37.626 11e3f Recovering log #60
-2020/09/15-15:45:37.626 11e3f Reusing old log /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000060.log 
-2020/09/15-15:48:48.132 1221b Level-0 table #64: started
-2020/09/15-15:48:48.140 1221b Level-0 table #64: 16980 bytes OK
-2020/09/15-15:48:48.145 1221b Delete type=0 #60
-2020/09/15-18:13:15.865 1221b Level-0 table #66: started
-2020/09/15-18:13:15.873 1221b Level-0 table #66: 15617 bytes OK
-2020/09/15-18:13:15.878 1221b Delete type=0 #63
-2020/09/15-18:53:50.009 1221b Level-0 table #68: started
-2020/09/15-18:53:50.018 1221b Level-0 table #68: 12670 bytes OK
-2020/09/15-18:53:50.022 1221b Delete type=0 #65
-2020/09/15-18:53:50.023 1221b Compacting 4@0 + 1@1 files
-2020/09/15-18:53:50.072 1221b Generated table #69@0: 376 keys, 564344 bytes
-2020/09/15-18:53:50.072 1221b Compacted 4@0 + 1@1 files => 564344 bytes
-2020/09/15-18:53:50.082 1221b compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/09/15-18:53:50.083 1221b Delete type=2 #66
-2020/09/15-18:53:50.083 1221b Delete type=2 #59
-2020/09/15-18:53:50.083 1221b Delete type=2 #64
-2020/09/15-18:53:50.083 1221b Delete type=2 #68
-2020/09/15-18:53:50.083 1221b Delete type=2 #61
-2020/09/15-20:21:58.557 1221b Level-0 table #71: started
-2020/09/15-20:21:58.561 1221b Level-0 table #71: 15386 bytes OK
-2020/09/15-20:21:58.568 1221b Delete type=0 #67
+2020/09/16-19:10:52.169 d1ba Reusing MANIFEST /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/09/16-19:10:52.170 d1ba Recovering log #96
+2020/09/16-19:10:52.170 d1ba Reusing old log /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000096.log 
+2020/09/16-19:57:11.870 edea Level-0 table #101: started
+2020/09/16-19:57:11.878 edea Level-0 table #101: 22341 bytes OK
+2020/09/16-19:57:11.882 edea Delete type=0 #96

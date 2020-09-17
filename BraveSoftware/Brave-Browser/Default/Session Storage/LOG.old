@@ -1,3 +1,21 @@
-2020/09/15-15:45:38.322 11e39 Reusing MANIFEST /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2020/09/15-15:45:38.327 11e39 Recovering log #41
-2020/09/15-15:45:38.328 11e39 Reusing old log /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000041.log 
+2020/09/16-19:10:52.982 d1c3 Reusing MANIFEST /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2020/09/16-19:10:52.984 d1c3 Recovering log #44
+2020/09/16-19:10:52.985 d1c3 Reusing old log /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000044.log 
+2020/09/16-19:43:16.911 edea Level-0 table #48: started
+2020/09/16-19:43:16.925 edea Level-0 table #48: 33688 bytes OK
+2020/09/16-19:43:16.929 edea Delete type=0 #44
+2020/09/16-19:43:16.930 edea Compacting 4@0 + 1@1 files
+2020/09/16-19:43:16.945 edea Generated table #49@0: 1049 keys, 43265 bytes
+2020/09/16-19:43:16.945 edea Compacted 4@0 + 1@1 files => 43265 bytes
+2020/09/16-19:43:16.949 edea compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/16-19:43:16.949 edea Delete type=2 #48
+2020/09/16-19:43:16.950 edea Delete type=2 #38
+2020/09/16-19:43:16.950 edea Delete type=2 #40
+2020/09/16-19:43:16.950 edea Delete type=2 #42
+2020/09/16-19:43:16.950 edea Delete type=2 #45
+2020/09/16-19:43:37.819 edea Level-0 table #51: started
+2020/09/16-19:43:37.826 edea Level-0 table #51: 19745 bytes OK
+2020/09/16-19:43:37.833 edea Delete type=0 #47
+2020/09/16-19:55:41.479 edea Level-0 table #53: started
+2020/09/16-19:55:41.488 edea Level-0 table #53: 20447 bytes OK
+2020/09/16-19:55:41.494 edea Delete type=0 #50

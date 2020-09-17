@@ -1,8 +1,8 @@
-2020/09/15-12:28:04.046 5ade Reusing MANIFEST /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/15-12:28:04.046 5ade Recovering log #44
-2020/09/15-12:28:04.047 5ade Reusing old log /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000044.log 
-2020/09/15-12:28:07.319 1153 Level-0 table #48: started
-2020/09/15-12:28:07.319 1153 Level-0 table #48: 0 bytes OK
-2020/09/15-12:28:07.325 1153 Delete type=0 #44
-2020/09/15-12:28:07.325 1153 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/09/15-12:28:07.325 1153 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2020/09/15-12:28:15.808 5ade Reusing MANIFEST /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/15-12:28:15.808 5ade Recovering log #47
+2020/09/15-12:28:15.809 5ade Reusing old log /home/d3n1s/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000047.log 
+2020/09/15-12:42:13.921 1153 Level-0 table #51: started
+2020/09/15-12:42:13.921 1153 Level-0 table #51: 0 bytes OK
+2020/09/15-12:42:13.928 1153 Delete type=0 #47
+2020/09/15-12:42:13.928 1153 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/15-12:42:13.928 1153 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
